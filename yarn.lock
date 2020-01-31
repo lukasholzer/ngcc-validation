@@ -3265,10 +3265,10 @@
     "@progress/kendo-schematics" "^1.0.0"
     tslib "^1.9.0"
 
-"@progress/kendo-angular-notification@2.0.1":
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/@progress/kendo-angular-notification/-/kendo-angular-notification-2.0.1.tgz#343e27eb0ddea5189f82c6616002e5da3e239c80"
-  integrity sha512-TZQufkJSq+wLc8Qr+ix38swujdtkakVgSXQdn30kmU0c+5aapu5+Ccgl/i5O9gUo6OGhv72jzrtLMYIeMkEV3Q==
+"@progress/kendo-angular-notification@2.0.2":
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/@progress/kendo-angular-notification/-/kendo-angular-notification-2.0.2.tgz#fe92c8d12001b59dd448826ed9ba2a1ed85f1d2f"
+  integrity sha512-Np7PoAmGmjffjCOD9c0XoHStI8O84uoTSMQZhntVBy1G610djT8Ny9s9smCQr5THGRzg8vTo2+ktowG1wetiPA==
   dependencies:
     "@progress/kendo-schematics" "^1.0.0"
     tslib "^1.9.0"
@@ -3336,10 +3336,10 @@
     "@telerik/kendo-draggable" "^2.0.0"
     tslib "^1.9.0"
 
-"@progress/kendo-angular-toolbar@3.0.2":
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/@progress/kendo-angular-toolbar/-/kendo-angular-toolbar-3.0.2.tgz#872b75d8200570be5ec2e20fd7a6006259f9f46a"
-  integrity sha512-tSHQxQXN36cSV1HYcDeKbTuPSAbeghdtKNNGU+ppHXjw9gt9Qh18tDxgUF00llY0EpwuL9rPE616upWxjdcnLA==
+"@progress/kendo-angular-toolbar@3.0.3":
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/@progress/kendo-angular-toolbar/-/kendo-angular-toolbar-3.0.3.tgz#d4227017e2a110896fa9daa187273695520b0d66"
+  integrity sha512-aGmd/CxRrEWDJ9YEYuJrI/F/5p+AioiHVMs1qJohpxXVqWZ9ydJ7ZjUOJBl8FDJEeCTkhq62nwAUokaBTEZeFA==
   dependencies:
     "@progress/kendo-schematics" "^1.0.0"
     tslib "^1.9.0"
